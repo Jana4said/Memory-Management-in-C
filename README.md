@@ -1,11 +1,11 @@
-# 🧠 Memory Management in C
+# Memory Management in C
 
 This project demonstrates **dynamic memory allocation**, **bit manipulation**, and **modular program design** using the C programming language.  
 It simulates a simple photo processing system that converts, compresses, and displays pixel data using ASCII representation.
 
 ---
 
-## ⚙️ Features
+## Features
 - Modular architecture with separate `.c` and `.h` files  
 - Dynamic arrays for handling photo data  
 - Bit packing and unpacking for compression  
@@ -14,7 +14,7 @@ It simulates a simple photo processing system that converts, compresses, and dis
 
 ---
 
-## 📁 File Overview
+## File Overview
 | File | Description |
 |------|--------------|
 | **main.c** | Controls the program flow — loads, prints, and compresses photos |
@@ -24,15 +24,13 @@ It simulates a simple photo processing system that converts, compresses, and dis
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - **C Language**
 - **Standard I/O**
 - **Pointers & Arrays**
 - **Memory Management**
 
 ---
-
-## 🧑‍💻 Author
 **Gana Said**  
 Bachelor of Computer Science (AI Stream) – Carleton University  
 📧 [janasaid@cmail.carleton.ca](mailto:janasaid@cmail.carleton.ca)
